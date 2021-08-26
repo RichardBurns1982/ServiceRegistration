@@ -1,0 +1,13 @@
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\bin\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.deps.json
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\bin\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.dll
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\bin\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.pdb
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\bin\Debug\netcoreapp3.1\ServiceRegistration.dll
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\bin\Debug\netcoreapp3.1\ServiceRegistration.pdb
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.csproj.CopyComplete
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.dll
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Infrastructure.IoC\obj\Debug\netcoreapp3.1\ServiceRegistration.Infrastructure.IoC.pdb

@@ -1,0 +1,13 @@
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\bin\Debug\netcoreapp3.1\ServiceRegistration.Core.deps.json
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\bin\Debug\netcoreapp3.1\ServiceRegistration.Core.dll
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\bin\Debug\netcoreapp3.1\ServiceRegistration.Core.pdb
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\bin\Debug\netcoreapp3.1\ServiceRegistration.dll
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\bin\Debug\netcoreapp3.1\ServiceRegistration.pdb
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.AssemblyInfo.cs
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.csproj.CopyComplete
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.dll
+C:\Users\Richard\source\repos\ServiceRegistration\ServiceRegistration.Core\obj\Debug\netcoreapp3.1\ServiceRegistration.Core.pdb
